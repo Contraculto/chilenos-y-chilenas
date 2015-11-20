@@ -1,0 +1,28 @@
+{
+  "name": "chilenos-y-chilenas",
+  "version": "1.0.0",
+  "description": "An experiment in generative text using chilean presidential speeches",
+  "main": "create.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Contraculto/chilenos-y-chilenas.git"
+  },
+  "keywords": [
+    "presidents",
+    "speeches",
+    "chile",
+    "nanogenmo"
+  ],
+  "author": "Rodrigo Lanas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Contraculto/chilenos-y-chilenas/issues"
+  },
+  "homepage": "https://github.com/Contraculto/chilenos-y-chilenas#readme",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
